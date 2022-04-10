@@ -1,0 +1,15 @@
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1.mdf
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\chess.exe.config
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\chess.exe
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\chess.pdb
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chess.csproj.GenerateResource.cache
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\chess.exe
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\chess.pdb
+D:\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Chess.csproj.AssemblyReference.cache
